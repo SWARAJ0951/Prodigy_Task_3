@@ -10,7 +10,7 @@ Welcome to the repository for my internship task submission for Prodigy Infotech
 The main goal of this project is to create predictive models that can assist banking institutions in targeting clients who are more likely to subscribe to term deposits. By accurately identifying potential subscribers, the institution can optimize its marketing efforts and improve campaign effectiveness.
 
 ## Dataset
-The dataset used in this project is related to direct marketing campaigns (phone calls) of the Portuguese banking institution. It contains various features such as client demographics, previous marketing interactions, and the outcome of the marketing campaign (whether the client subscribed to a term deposit or not).
+The [dataset](Bank_Additional_Full.csv) used in this project is related to direct marketing campaigns (phone calls) of the Portuguese banking institution. It contains various features such as client demographics, previous marketing interactions, and the outcome of the marketing campaign (whether the client subscribed to a term deposit or not).
 
 ## Results
 The project resulted in the development of decision tree classifiers using both the Gini impurity and entropy criteria. The models achieved high accuracy in predicting term deposit subscriptions, with the Gini impurity criterion slightly outperforming the entropy criterion in terms of testing accuracy and recall for the positive class.
