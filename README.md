@@ -1,5 +1,7 @@
 # Prodigy_Task_3
 
+<img width="1470" height="783" alt="image" src="https://github.com/user-attachments/assets/bd0ddc63-1786-4cfb-84be-46d2ff5f4015" />
+
 
 ## Introduction
 Welcome to the repository for my internship task submission for Prodigy Infotech! In this project, I developed machine learning models to predict whether clients will subscribe to a term deposit based on demographic and behavioral data from direct marketing campaigns conducted by a Portuguese banking institution.
